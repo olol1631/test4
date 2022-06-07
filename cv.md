@@ -33,7 +33,7 @@ JavaScript
 **Courses:** IT-Academy  
 
 ## Languages
-English (A1)  
+English (A2)  
 
 Russian 
 
